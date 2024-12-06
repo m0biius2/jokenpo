@@ -1,3 +1,3 @@
 # Jokenpô
 
-Jogo de pedra, papel e tesoura cpm jQuery
+Jogo de pedra, papel e tesoura com jQuery
