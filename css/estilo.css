@@ -1,0 +1,53 @@
+.espacoTop200{
+    margin-top: 200px;
+}
+
+.espacoTop20{
+    margin-top: 20px;
+}
+
+.espacoTop40Bottom20{
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.espacoTop10{
+    margin-top: 10px;
+}
+
+.fundoPreto{
+    background-color: #000000;
+}
+
+.corBranco{
+    color: #ffffff;
+}
+
+.hoverAzul{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.hoverAzul:link {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.hoverAzul:visited {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.hoverAzul:hover {
+    color: #0583F2;
+    text-decoration: none;
+}
+
+.hoverAzul:active {
+    color: #0583F2;
+    text-decoration: none;
+}
+
+.espacoTop30{
+    padding-top: 30px;
+}
